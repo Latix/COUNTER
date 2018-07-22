@@ -6,7 +6,7 @@ class NavBar extends Component{
 
     render (){
         return(
-            <span style={{marginBottom:400}}>Hello</span>
+            <span style={{marginBottom:400}}>Hello!</span>
         );
     }
 }
